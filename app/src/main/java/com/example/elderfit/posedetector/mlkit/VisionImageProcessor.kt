@@ -1,4 +1,4 @@
-package com.example.mlkit_posedetection_jetpack.posedetector.mlkit
+package com.example.elderfit.posedetector.mlkit
 
 import androidx.camera.core.ImageProxy
 import com.google.mlkit.vision.pose.Pose

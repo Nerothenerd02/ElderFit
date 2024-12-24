@@ -1,4 +1,4 @@
-package com.example.mlkit_posedetection_jetpack.posedetector.mlkit
+package com.example.elderfit.posedetector.mlkit
 
 import java.util.concurrent.Executor
 import java.util.concurrent.atomic.AtomicBoolean

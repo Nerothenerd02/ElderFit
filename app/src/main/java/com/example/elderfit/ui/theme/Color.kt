@@ -1,4 +1,4 @@
-package com.example.mlkit_posedetection_jetpack.ui.theme
+package com.example.elderfit.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

@@ -1,4 +1,4 @@
-package com.example.mlkit_posedetection_jetpack
+package com.example.elderfit
 
 import org.junit.Test
 

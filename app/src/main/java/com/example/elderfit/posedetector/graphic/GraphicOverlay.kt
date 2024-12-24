@@ -1,9 +1,9 @@
-package com.example.mlkit_posedetection_jetpack.posedetector.graphic
+package com.example.elderfit.posedetector.graphic
 
 import android.graphics.Matrix
 import android.util.Log
 import androidx.compose.ui.graphics.drawscope.DrawScope
-import com.example.mlkit_posedetection_jetpack.posedetector.graphic.GraphicOverlay.Graphic
+import com.example.elderfit.posedetector.graphic.GraphicOverlay.Graphic
 import com.google.android.gms.common.internal.Preconditions
 
 /**

@@ -1,4 +1,4 @@
-package com.example.mlkit_posedetection_jetpack.posedetector.mlkit
+package com.example.elderfit.posedetector.mlkit
 
 /** Describing a frame info.  */
 class FrameMetadata private constructor(val width: Int, val height: Int, val rotation: Int) {

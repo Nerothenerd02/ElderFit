@@ -1,4 +1,4 @@
-package com.example.mlkit_posedetection_jetpack
+package com.example.elderfit
 
 import android.os.Build
 import android.os.Bundle
@@ -9,10 +9,8 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
 import androidx.compose.ui.Modifier
-import androidx.lifecycle.viewmodel.compose.viewModel
-import com.example.mlkit_posedetection_jetpack.camera_usecase.CameraScreen
-import com.example.mlkit_posedetection_jetpack.camera_usecase.CameraViewModel
-import com.example.mlkit_posedetection_jetpack.ui.theme.MLKitPoseDetectionJetpackTheme
+import com.example.elderfit.camera_usecase.CameraScreen
+import com.example.elderfit.ui.theme.MLKitPoseDetectionJetpackTheme
 
 class MainActivity : ComponentActivity() {
     @RequiresApi(Build.VERSION_CODES.P)

@@ -1,4 +1,4 @@
-package com.example.mlkit_posedetection_jetpack.camera_usecase
+package com.example.elderfit.camera_usecase
 
 import android.view.ViewGroup
 import androidx.camera.view.PreviewView

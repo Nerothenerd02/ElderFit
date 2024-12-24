@@ -1,4 +1,4 @@
-package com.example.mlkit_posedetection_jetpack.posedetector.utils
+package com.example.elderfit.posedetector.utils
 
 import android.graphics.Bitmap
 import android.graphics.BitmapFactory
@@ -10,8 +10,8 @@ import android.media.Image.Plane
 import android.util.Log
 import androidx.camera.core.ExperimentalGetImage
 import androidx.camera.core.ImageProxy
-import com.example.mlkit_posedetection_jetpack.posedetector.graphic.GraphicOverlay
-import com.example.mlkit_posedetection_jetpack.posedetector.mlkit.FrameMetadata
+import com.example.elderfit.posedetector.graphic.GraphicOverlay
+import com.example.elderfit.posedetector.mlkit.FrameMetadata
 import java.io.ByteArrayOutputStream
 import java.nio.ByteBuffer
 

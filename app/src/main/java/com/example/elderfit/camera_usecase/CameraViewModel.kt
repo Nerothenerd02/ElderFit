@@ -1,4 +1,4 @@
-package com.example.mlkit_posedetection_jetpack.camera_usecase
+package com.example.elderfit.camera_usecase
 
 import android.Manifest
 import android.annotation.SuppressLint
@@ -29,9 +29,9 @@ import androidx.lifecycle.LifecycleOwner
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.example.mlkit_posedetection_jetpack.posedetector.graphic.GraphicOverlay
-import com.example.mlkit_posedetection_jetpack.posedetector.mlkit.PoseDetectorProcessor
-import com.example.mlkit_posedetection_jetpack.posedetector.utils.BitmapUtils
+import com.example.elderfit.posedetector.graphic.GraphicOverlay
+import com.example.elderfit.posedetector.mlkit.PoseDetectorProcessor
+import com.example.elderfit.posedetector.utils.BitmapUtils
 import com.google.common.util.concurrent.ListenableFuture
 import com.google.mlkit.common.MlKitException
 import com.google.mlkit.vision.pose.Pose

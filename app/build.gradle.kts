@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.mlkit_posedetection_jetpack"
+    namespace = "com.example.elderfit"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.mlkit_posedetection_jetpack"
+        applicationId = "com.example.elderfit"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
@@ -59,6 +59,9 @@ dependencies {
     implementation("androidx.compose.ui:ui-graphics")
     implementation("androidx.compose.ui:ui-tooling-preview")
     implementation("androidx.compose.material3:material3")
+    implementation("androidx.appcompat:appcompat:1.7.0")
+    implementation("com.google.android.material:material:1.12.0")
+    implementation("androidx.constraintlayout:constraintlayout:2.2.0")
 
     // CameraX
     val camerax_version = "1.2.0-alpha01"

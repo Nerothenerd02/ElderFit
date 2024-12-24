@@ -1,4 +1,4 @@
-package com.example.mlkit_posedetection_jetpack.posedetector.graphic
+package com.example.elderfit.posedetector.graphic
 
 import android.graphics.Bitmap
 import android.util.Log

@@ -1,4 +1,4 @@
-package com.example.mlkit_posedetection_jetpack.camera_usecase
+package com.example.elderfit.camera_usecase
 
 import android.annotation.SuppressLint
 import android.graphics.Bitmap
@@ -32,9 +32,9 @@ import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.platform.LocalLifecycleOwner
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.unit.dp
-import com.example.mlkit_posedetection_jetpack.R
-import com.example.mlkit_posedetection_jetpack.posedetector.graphic.GraphicOverlay
-import com.example.mlkit_posedetection_jetpack.posedetector.graphic.PoseGraphic
+import com.example.elderfit.R
+import com.example.elderfit.posedetector.graphic.GraphicOverlay
+import com.example.elderfit.posedetector.graphic.PoseGraphic
 import com.google.mlkit.vision.pose.Pose
 
 @OptIn(ExperimentalMaterial3Api::class)
